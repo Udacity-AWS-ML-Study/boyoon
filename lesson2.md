@@ -88,7 +88,6 @@ Model Inference Algorithm: Using a trained model to predict dats
 
 * 대표적인 평가지표: Accuracy, F1 score, Log Loss, Precision, Mean Absolute Error
 
-  There are several metrics to measure linear regression models' performance.  To list a few, MSE, MAE, R square, Adjusted R Square are frequently used methods to evaluate linear regression output. If the dataset that you are using contains many outliers, you might want to use MSE because it penalizes outliers by squaring them. On the other hand, MAE is more suitable for the dataset that has fewer outliers. Lastly, there is R square which evaluates model performance by explainability of predicted values. It is different from MSE or MAE as its score is bound between 0 to 1 and higher score means the better explainability of the model. As R square measures model by variance it is less affected by the data scale than MSE or MAE. Adjusted R square is used when dataset has many features because with more features, R square automatically increases. It is better to use Adjusted R Square when you are doing multi-variate regression.
 
 <br>
 
@@ -121,5 +120,4 @@ RMSE
 5) Inference
 
 ---
-
-Many real word problems are not solvable by a linear models. These problems are usually more complex and require more data as they cannot be fit into single line. One example of non-linear problem can be found in XOR problems. XOR problem is both . Say you have an umbrella and in-door -false, no-umbrella and outside -false. but if you use umbrella outside -true. 
+ 
