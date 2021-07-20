@@ -32,7 +32,7 @@ Machine Learning Model: generic program, made specific by data
 
 Model Training Algorithm: make small changes to the model to fit your problem
 
-Model Inference Algorithm: Using a trained model to predict dats
+Model Inference Algorithm: Using a trained model to predict data
 
 
 
