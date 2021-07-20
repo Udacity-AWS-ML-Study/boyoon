@@ -1,13 +1,3 @@
----
-layout: default
-title: Lesson 1
-date: 2021-07-01
-grand_parent: Machine Learning
-parent: AWS Machine Learning course
-nav_order: 1
-
----
-
 
 
 
