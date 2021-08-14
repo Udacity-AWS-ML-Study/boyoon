@@ -2,7 +2,7 @@
 
 ## Testing and Data Science
 
-데이터 사이언스 분야에서 생기 수 있는 문제들
+데이터 사이언스 분야에서 생길 수 있는 문제들
 
 - Bad encoding
 - Inappropriate features
