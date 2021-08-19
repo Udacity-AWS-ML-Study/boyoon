@@ -1,3 +1,5 @@
+Udacity의 AWS-ML 강의를 들은 후에 이를 제가 진행한 프로젝트에 적용해 보는 공간입니다.
+
 # Lesson별 수업 내용과 실습 목록
 
 ### Lesson 1 Introduction
@@ -9,6 +11,9 @@
 - 실습: 딥러닝을 이용한 추천 시스템
 
 ### Lesson 4 Software Engineering Practices, Part 1
+- 실습 : 프로젝트 리팩토링 [프로젝트링크]()
+         * 모듈화
+         * docstring 추가
 
 ### Lesson 5 Software Engineering Practices, Part 2
 
