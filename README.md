@@ -1,5 +1,3 @@
-Udacity의 AWS-ML 강의를 들은 후에 이를 제가 진행한 프로젝트에 적용해 보는 공간입니다.
-
 # Lesson별 수업 내용과 실습 목록
 
 ### Lesson 1 Introduction
