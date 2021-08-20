@@ -14,5 +14,8 @@
          * docstring 추가
 
 ### Lesson 5 Software Engineering Practices, Part 2
+- 실습 : 프로젝트 리팩토링 [프로젝트링크]() <br>
+         * 패키지 에러 해결
+         * Readme 파일 추가
 
 ### Lesson 6 Introduction to Object-Oriented Programming
