@@ -19,3 +19,4 @@
          * Readme 파일 추가
 
 ### Lesson 6 Introduction to Object-Oriented Programming
+- 실습 : 예전에 pypi로 배포한 패키지 리팩토링하기
