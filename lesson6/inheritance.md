@@ -1,5 +1,7 @@
 super와의 차이
 
+https://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods
+
 ```python
 class Blouse(Clothing):
   """inherits from Clothing class : color, size, style, price
