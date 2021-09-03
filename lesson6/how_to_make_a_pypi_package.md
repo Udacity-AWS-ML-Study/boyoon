@@ -6,8 +6,9 @@
   -__init__.py
 -setup.py
 ```
+<br>
 
-다른 파이썬 스크립트를 import할 때
+### 다른 파이썬 스크립트를 import할 때
 ```python
 from .Generaldistribution import Distribution
 ```
@@ -19,7 +20,8 @@ from .Generaldistribution import Distribution
   ```
   이라고 넣어주면, 다른 파일에서 Gaussian 클래스를 import할 때, 그 클래스가 있는 정확한 위치까지 안 써도 되고, from distribution import Gaussian으로 사용 가능함.
   
-setup.py : 패키지 이름, 버전, description 등이 있음
+### setup.py 
+: 패키지 이름, 버전, description 등이 있음
 ```python
 from setuptools import setup
 
