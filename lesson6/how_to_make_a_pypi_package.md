@@ -6,7 +6,6 @@
   -__init__.py
 -setup.py
 ```
-<br>
 
 ### 다른 파이썬 스크립트를 import할 때
 ```python
