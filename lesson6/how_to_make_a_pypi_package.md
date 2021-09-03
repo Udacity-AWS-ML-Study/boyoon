@@ -1,3 +1,4 @@
+### 패키지 폴더의 구조
 ```bash
 -distributions/
   -Gaussiandistribution.py
