@@ -1,5 +1,6 @@
 test PyPi 에 테스트로 올려놓고 좀 안정화되면 PyPi에 올리는 것을 추천함
 
+### test PyPi에 업로드
 1. 패키지 구성
 ```bash
 package/license.txt
@@ -31,4 +32,21 @@ $ python setup.py sdist
 ```bash
 $ twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 ```
-유저이름과 비밀번호 
+유저이름과 비밀번호 입력
+
+6.pip install로 test repository에서 다운 가능
+```bash
+$ pip install --index-url https://test.pypi.org/simple/ package_name
+```
+
+---
+### PyPi에 업로드하기
+```bash
+twine upload dist/*
+```
+
+pip install 하기
+```bash
+$ pip install package_name
+```
+
