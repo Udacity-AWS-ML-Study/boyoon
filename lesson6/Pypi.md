@@ -58,3 +58,12 @@ $ pip install package-name
 ```python
 from package_name import *
 ```
+
+### .tar.gz file vs. .whl file
+```bash
+$ python3 setup.py sdist bdist_wheel
+#tar.gz와 wheel 파일 둘 다 생김
+```
+* tar.gz는 소스 아카이브. 패키지를 컴파일하는 파일 포함.
+* .whl는 built distribution. 더 나중에 생겼고, 더 가벼움? 
+* pip은 처음에 .whl file을 찾고 없으면 tar.gz 파일을 
