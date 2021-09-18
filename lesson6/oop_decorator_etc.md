@@ -1,3 +1,14 @@
+Decorator 몇 가지 정리
+
+@classmethod
+
+
+@abstractmethod
+
+@torch.no_grad()
+
+### References
+
 https://realpython.com/primer-on-python-decorators/
 
 https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556
