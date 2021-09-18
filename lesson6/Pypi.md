@@ -50,3 +50,11 @@ pip install 하기
 $ pip install package_name
 ```
 
+* package 이름에 _ 들어가면 PyPi에 -로 바뀌어서 올라감.
+따라서 pip install할 때는 -로 쓰고, import할 때는 \_로 써야함
+```bash
+$ pip install package-name
+```
+```python
+from package_name import *
+```
